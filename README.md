@@ -1,2 +1,2 @@
 # Hello-World
-practice
+Lab 6 
